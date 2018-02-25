@@ -5,3 +5,4 @@ printf(“Programar es facil”);
 printf(“Voy a compartir con mi compañero el codigo”);
 return 0;
 }
+printf(“\nAlexis Martin Leal Molotla\n”);
